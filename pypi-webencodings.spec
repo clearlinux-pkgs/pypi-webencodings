@@ -4,7 +4,7 @@
 #
 Name     : pypi-webencodings
 Version  : 0.5.1
-Release  : 11
+Release  : 12
 URL      : https://files.pythonhosted.org/packages/0b/02/ae6ceac1baeda530866a85075641cec12989bd8d31af6d5ab4a3e8c92f47/webencodings-0.5.1.tar.gz
 Source0  : https://files.pythonhosted.org/packages/0b/02/ae6ceac1baeda530866a85075641cec12989bd8d31af6d5ab4a3e8c92f47/webencodings-0.5.1.tar.gz
 Summary  : Character encoding aliases for legacy web content
